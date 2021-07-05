@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MJSNOW\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MJSNOW\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.exe
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.deps.json
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.runtimeconfig.json
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.runtimeconfig.dev.json
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.dll
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\ref\MattSnowWTW.dll
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\bin\Debug\net5.0\MattSnowWTW.pdb
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.csproj.AssemblyReference.cache
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.AssemblyInfoInputs.cache
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.AssemblyInfo.cs
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.csproj.CoreCompileInputs.cache
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.dll
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\ref\MattSnowWTW.dll
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.pdb
+C:\Users\MJSNOW\dummy_projects\MattSnowWTW\obj\Debug\net5.0\MattSnowWTW.genruntimeconfig.cache
