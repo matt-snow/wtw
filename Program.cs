@@ -11,11 +11,11 @@ namespace MattSnowWTW
             var numberOfUniqueEmailAddresses = solution.NumberOfUniqueEmailAddresses(emails);
             Console.WriteLine($"The Number of Unique Emails is: {numberOfUniqueEmailAddresses}");
             var xLeftToRightDiagonalsGame = new TicTacToe(8);
-            // for (int i = 0; i < 7; ++i)
-            // {
-            //     xLeftToRightDiagonalsGame.PlacePiece(i,i,1);
-            // }
-            // Console.WriteLine(xLeftToRightDiagonalsGame.PlacePiece(7,7,1));
+            for (int i = 0; i < 7; ++i)
+            {
+                xLeftToRightDiagonalsGame.PlacePiece(i,i,1);
+            }
+            Console.WriteLine(xLeftToRightDiagonalsGame.PlacePiece(7,7,1));
 
             var yRightToLeftDiagonalsGame = new TicTacToe(5);
             for (int i = 0; i < 4; ++i)
